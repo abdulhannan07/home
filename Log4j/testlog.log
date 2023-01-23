@@ -1,0 +1,42 @@
+2023-01-23 12:35:19,243 - automation project -INFO - launched browser
+2023-01-23 12:35:28,552 - automation project -INFO - launched url
+2023-01-23 12:35:28,623 - automation project -INFO - running test case TC001
+2023-01-23 12:35:28,992 - automation project -INFO - entered username
+2023-01-23 12:35:29,181 - automation project -INFO - entered password
+2023-01-23 12:35:31,064 - automation project -INFO - submitted login button
+2023-01-23 12:35:31,076 - automation project -INFO - test case passed
+2023-01-23 12:35:31,896 - automation project -INFO - closed browser
+2023-01-23 12:35:41,072 - automation project -INFO - launched browser
+2023-01-23 12:35:49,003 - automation project -INFO - launched url
+2023-01-23 12:35:51,228 - automation project -INFO - running test case LoginTestDDT
+2023-01-23 12:35:51,856 - automation project -INFO - entered username
+2023-01-23 12:35:52,041 - automation project -INFO - entered password
+2023-01-23 12:35:56,867 - automation project -INFO - submitted login btn
+2023-01-23 12:36:00,376 - automation project -INFO - entered logout button
+2023-01-23 12:36:02,385 - automation project -INFO - test case passed
+2023-01-23 12:36:04,507 - automation project -INFO - running test case LoginTestDDT
+2023-01-23 12:36:04,918 - automation project -INFO - entered username
+2023-01-23 12:36:05,055 - automation project -INFO - entered password
+2023-01-23 12:36:05,641 - automation project -INFO - submitted login btn
+2023-01-23 12:36:10,501 - automation project -INFO - test case failed
+2023-01-23 12:36:10,509 - automation project -INFO - running test case LoginTestDDT
+2023-01-23 12:36:10,689 - automation project -INFO - entered username
+2023-01-23 12:36:10,972 - automation project -INFO - entered password
+2023-01-23 12:36:12,257 - automation project -INFO - submitted login btn
+2023-01-23 12:36:17,274 - automation project -INFO - test case failed
+2023-01-23 12:36:17,287 - automation project -INFO - running test case LoginTestDDT
+2023-01-23 12:36:17,648 - automation project -INFO - entered username
+2023-01-23 12:36:17,785 - automation project -INFO - entered password
+2023-01-23 12:36:18,335 - automation project -INFO - submitted login btn
+2023-01-23 12:36:22,291 - automation project -INFO - test case failed
+2023-01-23 12:36:22,297 - automation project -INFO - running test case LoginTestDDT
+2023-01-23 12:36:22,683 - automation project -INFO - entered username
+2023-01-23 12:36:22,820 - automation project -INFO - entered password
+2023-01-23 12:36:23,516 - automation project -INFO - submitted login btn
+2023-01-23 12:36:27,606 - automation project -INFO - test case failed
+2023-01-23 12:36:27,610 - automation project -INFO - running test case LoginTestDDT
+2023-01-23 12:36:28,022 - automation project -INFO - entered username
+2023-01-23 12:36:28,150 - automation project -INFO - entered password
+2023-01-23 12:36:28,679 - automation project -INFO - submitted login btn
+2023-01-23 12:36:33,024 - automation project -INFO - test case failed
+2023-01-23 12:36:33,914 - automation project -INFO - closed browser

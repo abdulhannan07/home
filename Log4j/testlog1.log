@@ -1,0 +1,42 @@
+2023-01-23 12:35:19,243 [main] INFO automation project - launched browser
+2023-01-23 12:35:28,552 [main] INFO automation project - launched url
+2023-01-23 12:35:28,623 [main] INFO automation project - running test case TC001
+2023-01-23 12:35:28,992 [main] INFO automation project - entered username
+2023-01-23 12:35:29,181 [main] INFO automation project - entered password
+2023-01-23 12:35:31,064 [main] INFO automation project - submitted login button
+2023-01-23 12:35:31,076 [main] INFO automation project - test case passed
+2023-01-23 12:35:31,896 [main] INFO automation project - closed browser
+2023-01-23 12:35:41,072 [main] INFO automation project - launched browser
+2023-01-23 12:35:49,003 [main] INFO automation project - launched url
+2023-01-23 12:35:51,228 [main] INFO automation project - running test case LoginTestDDT
+2023-01-23 12:35:51,856 [main] INFO automation project - entered username
+2023-01-23 12:35:52,041 [main] INFO automation project - entered password
+2023-01-23 12:35:56,867 [main] INFO automation project - submitted login btn
+2023-01-23 12:36:00,376 [main] INFO automation project - entered logout button
+2023-01-23 12:36:02,385 [main] INFO automation project - test case passed
+2023-01-23 12:36:04,507 [main] INFO automation project - running test case LoginTestDDT
+2023-01-23 12:36:04,918 [main] INFO automation project - entered username
+2023-01-23 12:36:05,055 [main] INFO automation project - entered password
+2023-01-23 12:36:05,641 [main] INFO automation project - submitted login btn
+2023-01-23 12:36:10,501 [main] INFO automation project - test case failed
+2023-01-23 12:36:10,509 [main] INFO automation project - running test case LoginTestDDT
+2023-01-23 12:36:10,689 [main] INFO automation project - entered username
+2023-01-23 12:36:10,972 [main] INFO automation project - entered password
+2023-01-23 12:36:12,257 [main] INFO automation project - submitted login btn
+2023-01-23 12:36:17,274 [main] INFO automation project - test case failed
+2023-01-23 12:36:17,287 [main] INFO automation project - running test case LoginTestDDT
+2023-01-23 12:36:17,648 [main] INFO automation project - entered username
+2023-01-23 12:36:17,785 [main] INFO automation project - entered password
+2023-01-23 12:36:18,335 [main] INFO automation project - submitted login btn
+2023-01-23 12:36:22,291 [main] INFO automation project - test case failed
+2023-01-23 12:36:22,297 [main] INFO automation project - running test case LoginTestDDT
+2023-01-23 12:36:22,683 [main] INFO automation project - entered username
+2023-01-23 12:36:22,820 [main] INFO automation project - entered password
+2023-01-23 12:36:23,516 [main] INFO automation project - submitted login btn
+2023-01-23 12:36:27,606 [main] INFO automation project - test case failed
+2023-01-23 12:36:27,610 [main] INFO automation project - running test case LoginTestDDT
+2023-01-23 12:36:28,022 [main] INFO automation project - entered username
+2023-01-23 12:36:28,150 [main] INFO automation project - entered password
+2023-01-23 12:36:28,679 [main] INFO automation project - submitted login btn
+2023-01-23 12:36:33,024 [main] INFO automation project - test case failed
+2023-01-23 12:36:33,914 [main] INFO automation project - closed browser
