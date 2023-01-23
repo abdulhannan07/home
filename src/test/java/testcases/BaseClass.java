@@ -35,7 +35,7 @@ public class BaseClass {
 
 	@BeforeClass
 	public void startUrl() {
-		
+		//added comment in base class
 		logger=Logger.getLogger("automation project");
 		PropertyConfigurator.configure("log4j.properties");
 		System.setProperty("webdriver.chrome.driver", rd.chrome());
